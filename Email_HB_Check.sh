@@ -14,8 +14,8 @@
 #                                                                             
 # Modifications:                                                              
 # Date       By       Description                                             
-# 2017-09-07 JCB   Creation                                                 
-#                                                                             
+# 2017-09-07 JCB      Creation                                                 
+# 2017-09-26 JCB      Added Maintenance check                                                                          
 #                                                                             
 #-----------------------------------------------------------------------------
 # Variables section
